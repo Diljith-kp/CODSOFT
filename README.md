@@ -43,7 +43,7 @@ This section outlines the Machine Learning tasks assigned during the internship,
 
 > 🛠️ Built With: `Python`, `Scikit-learn`, `NLTK`, `Pandas`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task1])
+📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/MovieGenreClassifier/genre_classifier.py)
 
 ---
 
@@ -55,7 +55,7 @@ This section outlines the Machine Learning tasks assigned during the internship,
 
 > 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NLTK`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task2])
+📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/Spam_SMS_Detector/spam_detection.py)
 
 ---
 
@@ -67,7 +67,7 @@ This section outlines the Machine Learning tasks assigned during the internship,
 
 > 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task3])
+📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/Customer-Churn-Prediction-Model/churn_prediction.py)
 
 ---
 
