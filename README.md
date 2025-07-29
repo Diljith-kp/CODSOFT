@@ -23,26 +23,11 @@
 
 This section outlines the Machine Learning tasks assigned during the internship, along with their current status.
 
-| 🚀 Task No. | 🎯 Project Name             | 💬 Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ✅ Status    |
+| 🚀 Task No. | 🎯 Project Name | 💬 Description | ✅ Status |
 |------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 🔢 `01`     | **Movie Genre Classification** | Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. Techniques like TF-IDF or word embeddings can be used with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines. | 🚧 In Progress |
-| 📝 `02`     | **Credit Card Fraud Detection** | Build a model to detect fraudulent credit card transactions. This involves using a dataset containing information about credit card transactions and experimenting with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.                                                                                                                                                                                                         | ⏳ To Do     |
-| 💡 `03`     | **Customer Churn Prediction** | Develop a model to predict customer churn for a subscription-based service or business. This will utilize historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.                                                                                                                                                                                                                   | ⏳ To Do     |
-
----
-
-## ✨ Live Preview Snapshots
-
-**Note:** You'll add screenshots, visualizations, or links to interactive demos here as you complete each project. For now, this section is a placeholder.
-
-### 🎥 Movie Genre Classification - Model Performance
-<img src="[Placeholder for your screenshot/plot URL]" alt="Movie Genre Classification Plot" width="100%" />
-
-### 💳 Credit Card Fraud Detection - Anomaly Visualization
-<img src="[Placeholder for your screenshot/plot URL]" alt="Fraud Detection Visualization" width="100%" />
-
-### 📉 Customer Churn Prediction - Feature Importance
-<img src="[Placeholder for your screenshot/plot URL]" alt="Churn Prediction Feature Importance" width="100%" />
+| 🔢 `01` | **Movie Genre Classification** | Automatically classify movie genres by analyzing plot summaries using machine learning. | ✅ Completed |
+| 📝 `02` | **SPAM SMS DETECTION** | Automate SMS message classification to accurately detect and filter spam using machine learning techniques. | ✅ Completed |
+| 💡 `03` | **Customer Churn Prediction** | Predict which customers will likely stop using a subscription service, based on their past activity and information. | ✅ Completed |
 
 ---
 
@@ -56,44 +41,44 @@ This section outlines the Machine Learning tasks assigned during the internship,
 - 🔹 [Key feature/finding 2, e.g., Utilized Logistic Regression for classification]
 - 🔹 [Key feature/finding 3, e.g., Achieved X% accuracy on test set]
 
-> 🛠️ Built With: `Python`, `[Specific ML Libraries, e.g., Scikit-learn, NLTK, Pandas]`
+> 🛠️ Built With: `Python`, `Scikit-learn`, `NLTK`, `Pandas`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task1]) • [Source Code](https://github.com/Diljith-kp/CodSoft-ML-Internship/tree/main/Task1_MovieGenreClassification)
+📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task1])
 
 ---
 
-### 💳 Task 02: Credit Card Fraud Detection
+### 📝 Task 02: SPAM SMS DETECTION
 
-- 🆕 [Key feature/finding 1, e.g., Handled imbalanced dataset with SMOTE]
-- ✅ [Key feature/finding 2, e.g., Compared performance of Decision Trees and Random Forests]
-- 🔄 [Key feature/finding 3, e.g., Evaluated model using precision-recall curve]
+- 🔹 [Key feature/finding 1, e.g., Preprocessed text data using tokenization and stop-word removal]
+- 🔹 [Key feature/finding 2, e.g., Compared Naive Bayes and SVM classifiers]
+- 🔹 [Key feature/finding 3, e.g., Achieved high precision in identifying spam messages]
 
-> 🛠️ Built With: `Python`, `[Specific ML Libraries, e.g., Scikit-learn, Imbalanced-learn, Pandas]`
+> 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NLTK`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task2]) • [Source Code](https://github.com/Diljith-kp/CodSoft-ML-Internship/tree/main/Task2_CreditCardFraudDetection)
+📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task2])
 
 ---
 
 ### 📉 Task 03: Customer Churn Prediction
 
-- 📊 [Key feature/finding 1, e.g., Performed extensive exploratory data analysis on customer behavior]
-- ⚙️ [Key feature/finding 2, e.g., Implemented Gradient Boosting for robust prediction]
-- 🎯 [Key feature/finding 3, e.g., Identified top features influencing churn]
+- 📊 Performed extensive exploratory data analysis on customer behavior.
+- ⚙️ Implemented and evaluated multiple classification models including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting.
+- 🎯 Identified top features influencing customer churn (e.g., balance, number of products, active member status).
 
-> 🛠️ Built With: `Python`, `[Specific ML Libraries, e.g., Scikit-learn, XGBoost/LightGBM, Pandas, Matplotlib]`
+> 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task3]) • [Source Code](https://github.com/Diljith-kp/CodSoft-ML-Internship/tree/main/Task3_CustomerChurnPrediction)
+📎 [Jupyter Notebook/Colab Link](https://[link-to-your-notebook-for-Task3])
 
 ---
 
 ## 🧰 Tech Stack
 
-| 🔧 Language | 🧠 ML Libraries        | 📊 Data/Viz Libraries | 🛠️ Tools           |
+| 🔧 Language | 🧠 ML Libraries | 📊 Data/Viz Libraries | 🛠️ Tools |
 |-------------|------------------------|-----------------------|--------------------|
-| `Python`    | `Scikit-learn`         | `Pandas`              | VS Code, Jupyter Notebook |
-|             | `TensorFlow` / `PyTorch` | `NumPy`               | Google Colab, Git  |
-|             | `NLTK`, `SpaCy`        | `Matplotlib`, `Seaborn` |                    |
-|             | `XGBoost`, `LightGBM`  | `Imbalanced-learn`    |                    |
+| `Python` | `Scikit-learn` | `Pandas` | VS Code, Jupyter Notebook |
+| | `TensorFlow` / `PyTorch` | `NumPy` | Google Colab, Git |
+| | `NLTK`, `SpaCy` | `Matplotlib`, `Seaborn` | |
+| | `XGBoost`, `LightGBM` | `Imbalanced-learn` | |
 
 ---
 
