@@ -97,7 +97,6 @@ Hi! I'm **Diljith K P**, a passionate 💻 **BCA student** and **aspiring Machin
 🎯 Currently enhancing my skills with real-world internship projects.
 
 🔗 [🌐 My Portfolio](https://diljith.in)
-📬 [📧 Email Me](mailto:diljithkp2005@gmail.com)
 
 ---
 
