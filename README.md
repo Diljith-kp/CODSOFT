@@ -26,8 +26,8 @@ This section outlines the Machine Learning tasks assigned during the internship,
 | 🚀 Task No. | 🎯 Project Name | 💬 Description | ✅ Status |
 |------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | 🔢 `01` | **Movie Genre Classification** | Automatically classify movie genres by analyzing plot summaries using machine learning. | ✅ Completed |
-| 📝 `02` | **SPAM SMS DETECTION** | Automate SMS message classification to accurately detect and filter spam using machine learning techniques. | ✅ Completed |
-| 💡 `03` | **Customer Churn Prediction** | Predict which customers will likely stop using a subscription service, based on their past activity and information. | ✅ Completed |
+| 📝 `02` | **Customer Churn Prediction** | Predict which customers will likely stop using a subscription service, based on their past activity and information. | ✅ Completed |
+| 💡 `03` | **SPAM SMS DETECTION** | Automate SMS message classification to accurately detect and filter spam using machine learning techniques. | ✅ Completed |
 
 ---
 
@@ -47,19 +47,7 @@ This section outlines the Machine Learning tasks assigned during the internship,
 
 ---
 
-### 📝 Task 02: SPAM SMS DETECTION
-
-- 🔹 [Key feature/finding 1, e.g., Preprocessed text data using tokenization and stop-word removal]
-- 🔹 [Key feature/finding 2, e.g., Compared Naive Bayes and SVM classifiers]
-- 🔹 [Key feature/finding 3, e.g., Achieved high precision in identifying spam messages]
-
-> 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NLTK`
-
-📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/Spam_SMS_Detector/spam_detection.py)
-
----
-
-### 📉 Task 03: Customer Churn Prediction
+### 📉 Task 02: Customer Churn Prediction
 
 - 📊 Performed extensive exploratory data analysis on customer behavior.
 - ⚙️ Implemented and evaluated multiple classification models including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting.
@@ -68,6 +56,18 @@ This section outlines the Machine Learning tasks assigned during the internship,
 > 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
 📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/Customer-Churn-Prediction-Model/churn_prediction.py)
+
+---
+
+### 📝 Task 03: SPAM SMS DETECTION
+
+- 🔹 [Key feature/finding 1, e.g., Preprocessed text data using tokenization and stop-word removal]
+- 🔹 [Key feature/finding 2, e.g., Compared Naive Bayes and SVM classifiers]
+- 🔹 [Key feature/finding 3, e.g., Achieved high precision in identifying spam messages]
+
+> 🛠️ Built With: `Python`, `Scikit-learn`, `Pandas`, `NLTK`
+
+📎 [View Python Script on GitHub](https://github.com/Diljith-kp/CODSOFT/blob/main/Spam_SMS_Detector/spam_detection.py)
 
 ---
 
