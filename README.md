@@ -84,9 +84,8 @@ This section outlines the Machine Learning tasks assigned during the internship,
 
 ## 📝 Documents
 
-- 📜 [✔️ Offer Letter (Issued)](https://drive.google.com/file/d/1xjI8juABtolqYRYyeFtaUeNjQRjl7_4p/view)
-- 🏆 Completion Certificate: _Pending (Will update once issued)_
-
+- 📜 [Offer Letter ](https://drive.google.com/file/d/1xjI8juABtolqYRYyeFtaUeNjQRjl7_4p/view)
+- 🏆 [Completion Certificate](https://drive.google.com/file/d/1EYg4xz8U3PA8RrxMcOIdfhiJA2M-BDQJ/view?usp=drive_link)
 ---
 
 ## 🙋‍♂️ About Me
